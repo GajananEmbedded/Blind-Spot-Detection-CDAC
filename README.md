@@ -21,8 +21,3 @@
 <p>3.Siddhant Panwar</p>
 <p>4.Ankit Yadav</p>
 <p>5.Ashutosh Pandey</p>
-
-
-
-
-2
