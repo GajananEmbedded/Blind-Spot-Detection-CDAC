@@ -3,7 +3,7 @@
 <h1 align="center"><a href="#"> Blind-Spot-Detection</a></h1>
 
 <h3>Project Description :</h3>
-<p>Developing intelligent blind spot detection system for Advanced car driving for more help in AI word. Its a very useful device find spots very fast.<p>
+<p>Developing intelligent blind spot detection system for Advanced car driving for more help in AI future. Its a very useful RTOS aware embedded system which helps in ADAS.<p>
 
 
 <h3>Tech Stack :</h3>
@@ -25,3 +25,4 @@
 
 
 
+2
