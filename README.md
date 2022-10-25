@@ -8,11 +8,10 @@
 
 <h3>Tech Stack :</h3>
 <p>Embedded C <p>
-<p>Microcontroller Devices. <p>
-<p>STM-32F429 Micro-controller board. <p>
+<p>ARM cortex M3/M4 STM-32F407 Microcontroller. <p>
 <p>Beagle Bone black. <p>
 <p>CAN-ADAS. <p>
-
+<p> AWS. <p>
 
 <h2>Team Members<h2>
 
